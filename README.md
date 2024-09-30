@@ -17,6 +17,6 @@ If you'd like persistance, you can create a volume for that purpose:
 
 Once the container is running for the first time, navigate to `/admin` to be redirected to the upgrade and install scripts.
 
-### Docker-compose
+## Docker-compose
 
 September 30th, Will be added in a couple of days
